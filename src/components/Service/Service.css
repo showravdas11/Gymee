@@ -1,0 +1,11 @@
+.service{
+    background-color: black;
+}
+
+.see-btn{
+    border: none;
+    background-color: #c63634;
+    padding: 8px 15px;
+    color: white;
+    border-radius: 3px;
+}

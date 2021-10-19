@@ -1,0 +1,28 @@
+.signin{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signin input{
+    /* background-color: black; */
+    margin: 8px 0;
+    width: 400px;
+    padding: 6px;
+    border-radius: 5px;
+}
+.google-btn{
+    background-color: rgb(97, 97, 255);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 150px;
+}
+
+.sign{
+    background-color: #C63634;
+    padding: 8px 170px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}

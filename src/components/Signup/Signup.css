@@ -1,0 +1,13 @@
+.signup{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup input{
+    /* background-color: black; */
+    margin: 8px 0;
+    width: 400px;
+    padding: 6px;
+    border-radius: 5px;
+}
